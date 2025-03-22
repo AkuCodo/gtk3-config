@@ -1,0 +1,6 @@
+@import 'colors.css';
+
+.tasklist {
+   -XfceTasklist-min-button-length: 75; 
+   -XfceTasklist-max-button-length: 125;
+}
